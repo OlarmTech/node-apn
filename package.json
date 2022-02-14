@@ -1,7 +1,7 @@
 {
-  "name": "apn",
+  "name": "@olarm/apn",
   "description": "An interface to the Apple Push Notification service for Node.js",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "author": "Andrew Naylor <argon@mkbot.net>",
   "contributors": [
     {
@@ -19,10 +19,6 @@
   ],
   "main": "index.js",
   "types": "index.d.ts",
-  "bugs": {
-    "email": "florian.reinhart@gmail.com",
-    "url": "https://github.com/node-apn/node-apn/issues"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/node-apn/node-apn.git"
